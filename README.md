@@ -11,29 +11,11 @@
    <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
-
-
 Eu sou <strong>Gisele Porto</strong>, <strong> estudante de programação full stack.</strong> 👨🏻‍💻 
 
 - 🖥️ Atualmente estou aprendendo: <strong>Back End em JavaScript</strong> 
 - 📖 Pergunte-me sobre: <strong>Doguinhos e comidas com queijo</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês </strong>
-
-<div align="center">
- 
-![unnamed](https://user-images.githubusercontent.com/132604471/236533527-bbbceb05-3da9-4ebd-9fb2-f9b6f943e547.gif)
-
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
-
-<div align="center">
-  
-
-
-
-  
-  
-</div>
-
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
@@ -46,7 +28,25 @@ Eu sou <strong>Gisele Porto</strong>, <strong> estudante de programação full s
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 
 
+<div align="center">
+ 
+![972df71e1cae26a17ce4262515b9e2ab](https://user-images.githubusercontent.com/132604471/236534135-b5ef1e3c-39c9-4564-893e-dbfe751817b5.gif)
 
-**Contador De Visitas**
+
+<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+
+<div align="center">
+  
+
+![star-wars-funny-icegif-20](https://user-images.githubusercontent.com/132604471/236534741-5e0d4c91-d6de-4f4a-bbf3-538df8ea5049.gif)
+
+  **Contador De Visitas**
 
 ![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+
+  
+</div>
+
+
+
+
