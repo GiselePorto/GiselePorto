@@ -1,5 +1,7 @@
 # Gisele Porto <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
+
+
  <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
@@ -14,15 +16,19 @@
 Eu sou <strong>Gisele Porto</strong>, <strong> estudante de programação full stack.</strong> 👨🏻‍💻 
 
 - 🖥️ Atualmente estou aprendendo: <strong>Back End em JavaScript</strong> 
-- 📖 Pergunte-me sobre: <strong>Doguinhos e Star Wars</strong>
+- 📖 Pergunte-me sobre: <strong>Doguinhos e comidas com queijo</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês </strong>
 
 <div align="center">
+ 
+![unnamed](https://user-images.githubusercontent.com/132604471/236533527-bbbceb05-3da9-4ebd-9fb2-f9b6f943e547.gif)
+
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 <div align="center">
   
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+
 
   
   
