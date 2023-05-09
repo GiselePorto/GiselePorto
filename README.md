@@ -31,7 +31,6 @@ Hello World! Eu sou <strong>Gisele Porto</strong>, <strong> estudante de program
 ![972df71e1cae26a17ce4262515b9e2ab](https://user-images.githubusercontent.com/132604471/236534135-b5ef1e3c-39c9-4564-893e-dbfe751817b5.gif)
 
 
-
 <div align="center">
   
 
