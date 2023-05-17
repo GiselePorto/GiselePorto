@@ -11,7 +11,7 @@
 
 Hello World! Eu sou <strong>Gisele Porto</strong>, <strong> estudante de programação full stack.</strong> 👨🏻‍💻 
 
-- 🖥️ Atualmente estou aprendendo: <strong>JavaScript / HTML / CSS </strong> 
+- 🖥️ Atualmente estou aprendendo: <strong>JavaScript / VScode / CSS </strong> 
 - 📖 Pergunte-me sobre: <strong>Doguinhos e comidas com queijo</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês </strong>
 
