@@ -12,7 +12,7 @@
 Hello World! Eu sou <strong>Gisele Porto</strong>, <strong> estudante de programação Full-Stack.</strong> 👨🏻‍💻 
 
 - 🖥️ Atualmente estou aprendendo: <strong>JavaScript / VScode / CSS </strong> 
-- 📖 Pergunte-me sobre: <strong>Doguinhos e comidas com queijo</strong>
+- 📖 Pergunte-me sobre: <strong>Doguinhos, pizza e café </strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês </strong>
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
