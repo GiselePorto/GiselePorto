@@ -1,13 +1,10 @@
 # Gisele Porto ![Sonic A 2](https://user-images.githubusercontent.com/132604471/236542357-013ca89e-0282-4099-81e8-c5a398c6f9c1.gif)
 
- <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+ <a href="https://www.linkedin.com/in/giseleporto/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giseleporto/" /></a>
 
- <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-    
-   <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://https://www.instagram.com/_giseleporto///"/></a>
+ <a href="https:https://www.instagram.com/_giseleporto/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https:https://www.instagram.com/_giseleporto/"/></a>
 
 Hello World! Eu sou <strong>Gisele Porto</strong>, <strong> estudante de programação full stack.</strong> 👨🏻‍💻 
 
