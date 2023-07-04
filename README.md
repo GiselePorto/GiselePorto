@@ -13,7 +13,7 @@
 <br> 
 Eu sou  **Gisele Porto**,  estudante de programação ***Full-Stack*** em migração de carreira da área de ***Saúde***, buscando juntar as duas áreas para um bem em comum! 👨🏻‍💻 
 
-- 🖥️ Atualmente estou aprendendo: <strong>JavaScript / VScode / CSS </strong> 
+- 🖥️ Atualmente estou aprendendo: <strong>JavaScript | VScode | MongoDB | Git </strong> 
 - 📖 Pergunte-me sobre: <strong>Doguinhos, pizza e café </strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês </strong>
 
