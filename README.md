@@ -11,10 +11,10 @@
 
 **Hello World!**
 <br> 
-Eu sou  **Gisele Porto**,  estudante de programação ***Full-Stack*** em migração de carreira da área de ***Saúde***, buscando juntar as duas áreas para um bem em comum! 👨🏻‍💻 
+Eu sou  **Gisele Porto**, desenvolvedora full-stack em migração de carreira da área de enfermagem.  👨🏻‍💻 
 
 - 🖥️ Atualmente estou aprendendo: <strong>JavaScript | VScode | MongoDB | Git </strong> 
-- 📖 Pergunte-me sobre: <strong>Doguinhos, pizza e café </strong>
+- 📖 Área Favorita: <strong>Back-End</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês </strong>
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
