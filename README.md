@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
 
 <br> 
-Olá! Me chamo Gisele, sou desenvolvedora full-stack em migração de carreira da área de enfermagem.  👨🏻‍💻 
+👨🏻‍💻 
 
 - 🖥️ Atualmente estou aprendendo: <strong>JavaScript | VScode | MongoDB | Git </strong> 
 - 📖 Área Favorita: <strong>Back-End</strong>
